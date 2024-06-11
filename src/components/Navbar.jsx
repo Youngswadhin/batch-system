@@ -109,7 +109,8 @@ const Navbar = ({ theme, setTheme }) => {
           )}
         </button>
         <div className=" w-[180px] h-[60px]  rounded-md flex items-center bg-primary-black text-primary-white dark:text-primary-black dark:bg-primary-white justify-center text-[18px]  font-[ClashDisplay-Medium] hover:bg-primary-red dark:hover:bg-primary-red ease-linear transition-all cursor-pointer ">
-        <a href="../assets/SWADHIN_RESUME.pdf" download="SWADHIN_RESUME.pdf">
+       <a href="https://drive.google.com/file/d/1Kx90iyLZAiv9PAt-Ggz9WccEAwx3mh2I/view?usp=sharing"
+        target="_blank">
     <button className="bg-transparent border-none text-inherit cursor-pointer">Download</button>
   </a>
         </div>
